@@ -5,9 +5,9 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ----------------------------------------------
 
 Since I graduated from **Ecole 42** programming school, I have been involved in many engineering projects: from AI-based facial recognition authentication system to programming and bringing scientific CubeSat satellites to space. 
-Equipped with strong foundation in software engineering, electronics, maker skills, and passion for complex systems, math & engineering, I followed my drive to study **Robotics & AI** and completed my Bachelor degree at the University of Klagenfurt in Austria.
+Equipped with strong foundation in software engineering, electronics, maker skills, and passion for complex systems, math & engineering, I followed my drive to study **Robotics & AI** and completed my Bachelor degree at the **University of Klagenfurt** in Austria.
 
-Currently I'm a Robotics Master student at EPFL (École Polytechnique Fédérale de Lausanne).
+Currently I'm a **Robotics** Master student at **EPFL** (École Polytechnique Fédérale de Lausanne).
 
 Aside from studies, I am actively involved in **Robotics research**. My interests lie in Robotic Manipulation, Tactile Sensing, Robotic Learning, Haptics, Representation Learning, multi-modal ML in sensing and perception, Human-Robot Interaction and Bio-Inspired Mechatronics.
 
